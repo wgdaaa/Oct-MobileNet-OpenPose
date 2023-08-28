@@ -1,2 +1,2 @@
 # Oct-MobileNet-OpenPose
-This is the Oct-MobileNet-OpenPose source code. Please read the requirement files for the packages used in this project. 
+This is the Oct-MobileNet-OpenPose source code. Please read the requirements file for packages used in this project. 
